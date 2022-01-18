@@ -1,0 +1,3 @@
+F:\AI\Software Engineer\Game Development\WorkSpace\SFMLProjectBasics\x64\Debug\Shooter.exe
+F:\AI\Software Engineer\Game Development\WorkSpace\SFMLProjectBasics\x64\Debug\Shooter.exe.lastcodeanalysissucceeded
+F:\AI\Software Engineer\Game Development\WorkSpace\SFMLProjectBasics\x64\Debug\NativeCodeAnalysis.read.1.tlog

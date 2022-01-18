@@ -1,0 +1,40 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFMLProjectBasics.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Enemy.cpp
+F:\AI\Software Engineer\Game Development\WorkSpace\SFMLProjectBasics\Enemy.cpp(21,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\AI\Software Engineer\Game Development\WorkSpace\SFMLProjectBasics\Enemy.cpp(21,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Hero.cpp
+F:\AI\Software Engineer\Game Development\WorkSpace\SFMLProjectBasics\Hero.cpp(25,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\AI\Software Engineer\Game Development\WorkSpace\SFMLProjectBasics\Hero.cpp(25,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Rocket.cpp
+F:\AI\Software Engineer\Game Development\WorkSpace\SFMLProjectBasics\Rocket.cpp(19,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\AI\Software Engineer\Game Development\WorkSpace\SFMLProjectBasics\Rocket.cpp(19,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  main.cpp
+F:\AI\Software Engineer\Game Development\WorkSpace\SFMLProjectBasics\main.cpp(15,38): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\AI\Software Engineer\Game Development\WorkSpace\SFMLProjectBasics\main.cpp(15,26): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Running Code Analysis for C/C++...
+  Generating Code...
+  SFMLProjectBasics.vcxproj -> F:\AI\Software Engineer\Game Development\WorkSpace\SFMLProjectBasics\x64\Debug\Shooter.exe
